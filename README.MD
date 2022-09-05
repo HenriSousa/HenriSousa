@@ -1,8 +1,8 @@
 ## Olá eu sou o Henrique Sousa!
 <div align="center">
   <a href="https://github.com/HenriSousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrisousa&show_icons=true&theme=light default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrisousa&layout=compact&langs_count=7&theme=light default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriSousa&show_icons=true&theme=light default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriSousa&layout=compact&langs_count=7&theme=light default"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
