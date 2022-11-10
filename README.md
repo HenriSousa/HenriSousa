@@ -1,6 +1,6 @@
 ## Olá eu sou o Henrique Sousa!
 
-<div align="center">
+<div>
   <a href="https://github.com/HenriSousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrisousa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrisousa&layout=compact&langs_count=7&theme=light"/>
