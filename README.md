@@ -1,9 +1,4 @@
-## Olá eu sou o Henrique Sousa!
-👋 Olá! Sou Henrique, desenvolvedor apaixonado por tecnologia, focado em criar soluções inovadoras e impactantes. Atualmente cursando Análise e Desenvolvimento de Sistemas, tenho experiência em desenvolvimento Front-end e Back-end, com um sólido conhecimento em:
-
-Front-end: HTML, CSS, JavaScript, TypeScript e Angular.  
-Back-end: Java, Spring Framework, Node.js, Bancos de Dados Relacional e Não Relacional.  
-Outras Competências: Docker, GCP, AWS, Metodologias Ágeis, Design Patterns, Microserviços, API REST.  
+Desenvolvedor Full Stack com foco em Java, Spring Boot, Angular e SQL, aplicando boas práticas como Clean Code, SOLID e arquitetura DDD para desenvolver soluções escaláveis e eficientes, com perfil proativo, colaborativo, comunicativo e orientado à resolução de problemas.  
 
 🎯 Sempre em busca de novos desafios, gosto de explorar novas tecnologias e criar soluções que possam ser usadas por milhares de pessoas.
 
